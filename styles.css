@@ -1,0 +1,13 @@
+/* use this to put borders around things... */
+.thin_border{
+	border: 3px solid black;
+}
+body{
+	background-color:#2F4F4F;
+	color: white;
+    }
+a{
+	font color: black;
+	font-size: 24px;
+	font-family: sans-serif;
+	}
